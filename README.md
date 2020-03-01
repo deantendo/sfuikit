@@ -7,7 +7,7 @@ This is currently very much a WIP. While the PSD is ready to go in its current s
 
 ======= 
 
-This is a project by Deantendo, with heavy contribution from nini
+This is a project by Deantendo, with heavy contribution from Treelo (nini)
 
 =======
 
