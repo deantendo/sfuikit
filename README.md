@@ -5,8 +5,10 @@
 
 This is currently very much a WIP. While the PSD is ready to go in its current state, the information provided here is incomplete.
 
-=======
+======= 
+
 This is a project by Deantendo, with heavy contribution from nini
+
 =======
 
 This is a 'build your own' UI kit.
