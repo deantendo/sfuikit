@@ -11,7 +11,7 @@ This is a "build your own" UI kit for modders of the game **Satisfactory**, it's
 
 You will also require the following fonts to render the PSD files correctly:
 
-- Segoe UI
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - [Orbitron](https://www.fontsquirrel.com/fonts/orbitron "Orbitron")
 - [Roboto](https://fonts.google.com/specimen/Roboto "Roboto")
 
